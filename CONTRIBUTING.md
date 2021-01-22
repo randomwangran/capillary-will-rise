@@ -1,22 +1,17 @@
 # Contributing
 
-Contributions are welcome. If you discover bugs or issues, or have ideas for
-improvements or new features, please file a report on the issue tracker for this
-repository. Follow the guidelines below to make sure everything goes smoothly.
+Okay, this is not a software, thus free to send any information with
+regard to this repo. You can ask questions, request technique details,
+underline physics, mathmatical background, etc... anything that you
+think it's interesting.
+
+No worry about it. I won't ask a penny. :）
 
 
 ## Issue reporting
 
-- Check that the issue has not already been reported
-- Check that the issue has not already been fixed in the latest code
-- Open an issue with a clear title
-- Write as grammatically correct as you can in the description.
+I will not close any issue. You may send whatever question you like to discuss.
 
 ## Pull requests
 
-- Perform all changes on a topic branch for easier merging
-- Follow the coding conventions already in use
-- Add unit tests whenever possible
-- Open a [pull request][] relating to a single issue.
-
-[pull request]: https://help.github.com/articles/using-pull-requests
+Yes, if you think this repo can be improved, why not?
